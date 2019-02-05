@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MomirBasic</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="momir_vig_string">Avatar</string>
+    <string name="history_string">History</string>
+    <string name="settings_string">Settings</string>
+    <string name="string_decrease_button"><![CDATA[<]]></string>
+    <string name="string_increase_button"><![CDATA[>]]></string>
+    <string name="string_text_value">0</string>
+    <string name="string_cast_creature">Create a Creature!</string>
+
+    <!-- A URI to go get the momir vig avatar from Scryfall -->
+    <string name="momir_vig_avatar_uri">https://api.scryfall.com/cards/named?fuzzy=momir+vig+avatar</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="string_close_button">Close</string>
+    <string name="btntext_fetching">Fetching...</string>
+    <string name="btn_text_close">Close</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="this_is_a_magic_card">This is a magic card</string>
+
+
+</resources>

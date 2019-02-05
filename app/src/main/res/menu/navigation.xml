@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigation_momir"
+            android:icon="@drawable/ic_momir_black_24dp"
+            android:title="@string/momir_vig_string"/>
+
+    <item
+            android:id="@+id/navigation_history"
+            android:icon="@drawable/ic_history_black_24dp"
+            android:title="@string/history_string"/>
+
+    <item
+            android:id="@+id/navigation_settings"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/settings_string"/>
+
+</menu>
